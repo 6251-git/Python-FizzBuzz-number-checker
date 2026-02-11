@@ -1,11 +1,11 @@
 # Python-FizzBuzz-number-checker
 This is a number checker writen in Python. It counts all numbers between 1 and 100, if the number is divisible by three it prints "fizz", if its divisible by five its prints "buzz" and it will print "fizzbuzz" if its divisible by both. If its not divisible by either it will just print the number instead.
 
-for x in range(1, 100):  
+`for x in range(1, 100):`  
 
  
 
-  if x % 3 == 0 and x % 5 == 0:  
+  `if x % 3 == 0 and x % 5 == 0:`  
 
  
 
@@ -13,7 +13,7 @@ for x in range(1, 100):
 
  
 
-  elif x % 5 == 0:  
+  `elif x % 5 == 0:`  
 
  
 
@@ -21,7 +21,7 @@ for x in range(1, 100):
 
  
 
-  elif x % 3 == 0:  
+  `elif x % 3 == 0:`  
 
  
 
@@ -29,7 +29,7 @@ for x in range(1, 100):
 
    
 
-  else :print(x) 
+  `else :print(x)` 
 
  
 
