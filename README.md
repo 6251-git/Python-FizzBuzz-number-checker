@@ -44,5 +44,4 @@ print(x)
 
 Explanation
 -----------
-
-I wrote this a proof of my profiency in Python. The "FizzBuzz" is common interview question for programming applicants to recieve and so here I have the answer in this repository to provide as proof of my experience.
+The "FizzBuzz" question is common interview question for programming applicants to recieve, so I have the asnwer here in this repository to provide as proof of my experience in Python.
