@@ -38,3 +38,11 @@ for x in range(1, 100):
  
 
 print(x) 
+
+
+
+
+Explanation
+-----------
+
+I wrote this a proof of my profiency in Python. The "FizzBuzz" is common interview question for programming applicants to recieve and so here I have the answer in this repository to provide as proof of my experience.
